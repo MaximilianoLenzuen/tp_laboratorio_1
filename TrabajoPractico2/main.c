@@ -3,7 +3,7 @@
 #include <string.h>
 #include "funciones.h"
 #include "ArrayEmployees.h"
-#define T 3
+#define T 1000
 #define LIBRE 0
 #define OCUPADO 1
 
@@ -40,7 +40,7 @@ int main()
     	case 2:
         if(flagUno==1){
         printEmployees(employee,T,OCUPADO);
-        validarOperacion("La operación fue realizada correctamente!","La operacion no se pudo realizar",modifyEmployee(employee,T,OCUPADO));
+        validarOperacion("La operaciÃ³n fue realizada correctamente!","La operacion no se pudo realizar",modifyEmployee(employee,T,OCUPADO));
 
         }else{
         printf("Todavia no ingreso ningun empleado!");
