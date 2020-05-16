@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1589571491 source:c:\users\maxi\desktop\tp2\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589581829 source:c:\users\maxi\desktop\tp2\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayEmployees.h"
+
+1589517637 c:\users\maxi\desktop\tp2\trabajopractico2\funciones.h
+	<string.h>
+
+1589581272 source:c:\users\maxi\desktop\tp2\trabajopractico2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1589579704 c:\users\maxi\desktop\tp2\trabajopractico2\arrayemployees.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589517930 c:\users\maxi\desktop\tp2\trabajopractico2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589585796 source:c:\users\maxi\desktop\trabajopractico2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1589579704 c:\users\maxi\desktop\trabajopractico2\arrayemployees.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589581829 source:c:\users\maxi\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayEmployees.h"
+
+1589517637 c:\users\maxi\desktop\trabajopractico2\funciones.h
+	<string.h>
+
+1589584846 source:c:\users\maxi\desktop\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
