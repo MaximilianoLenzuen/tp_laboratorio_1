@@ -1,5 +1,5 @@
 #include "ArrayEmployees.h"
-#define T 3
+#define T 1000
 #define OCUPADO 1
 #define LIBRE 0
 
