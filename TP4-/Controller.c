@@ -298,7 +298,7 @@ int controller_saveAsText(char* path , LinkedList* pArrayListEmployee)
 	    {
 	        if(len == 0)
 	        {
-	        	printf("La lista est· vacia!!");
+	        	printf("La lista est√° vacia!!");
 	        }
 	        else
 	        {
@@ -383,7 +383,7 @@ int controller_lastId(LinkedList* pArrayListEmployee)
     return maxid;
 }
 
-/** \brief Determinar si el empleado est· en alguna sucursal
+/** \brief Determinar si el empleado est√° en alguna sucursal
  *
  * \param path char*
  * \param pArrayListEmployee LinkedList*
@@ -402,7 +402,7 @@ int controller_viewInSucursal(LinkedList* pArrayListEmployee,LinkedList* pArrayL
         Employee* this;
         this = employee_new();
         printf("El tamanio de la lista es: %d ",ll_len(pArrayListEmployee));
-        id = getInt("\nIngrese un id","Ingrese un id valido y menor que el tamanio de la lista!!",0,ll_len(pArrayListEmployee));
+        id = getInt("\nIngrese un id","Ingrese un id valido y menor que el tamanio de la lista!!",0,controller_lastId(pArrayListEmployee));
 
         for(i=0;i<ll_len(pArrayListEmployee);i++)
         {
@@ -447,7 +447,7 @@ int controller_replace(LinkedList* pArrayListEmployee){
     int returnAux = -1;
     Employee* this;
     controller_ListEmployee(pArrayListEmployee);
-    id = getInt("\nIngrese el id que desea mover: ","Ingrese un id valido!!",0,ll_len(pArrayListEmployee));
+    id = getInt("\nIngrese el id que desea mover: ","Ingrese un id valido!!",0,controller_lastId(pArrayListEmployee));
 
     for(i=0;i<ll_len(pArrayListEmployee);i++)
         {
