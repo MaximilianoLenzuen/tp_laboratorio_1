@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1592539941 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+
+1592312333 c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\linkedlist.h
+
+1592531588 c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\employee.h
+
+1561499216 c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\parser.h
+
+1592534024 c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1592531713 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1592534292 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\funciones.c
+	"funciones.h"
+
+1592539214 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1561499216 c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\controller.h
+
+1592532584 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1593279983 source:c:\users\maxi lenzuen\desktop\nueva carpeta\tp4-\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593305892 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+
+1592312333 c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\linkedlist.h
+
+1593295144 c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\employee.h
+
+1561499216 c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\parser.h
+
+1592534024 c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1593294743 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1593304507 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\funciones.c
+	"funciones.h"
+
+1593304123 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1592532584 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1593306045 source:c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1593304412 c:\users\maxi lenzuen\desktop\tp4 prop\tp4-\controller.h
+
